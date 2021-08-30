@@ -41,5 +41,11 @@
     "prettier": "^2.2.0",
     "typescript": "^3.9.6",
     "@vtex/danger": "^0.2.7"
+  },
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "@vtex/styleguide": "^9.145.1",
+    "@vtex/tsconfig": "^0.5.6",
+    "acorn": "^8.4.1"
   }
 }

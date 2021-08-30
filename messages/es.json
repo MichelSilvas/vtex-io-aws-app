@@ -1,4 +1,5 @@
 {
   "admin/test": "teste",
-  "store/test": "teste"
+  "store/test": "teste",
+  "admin.app.leadslist": "Lista de Leads"
 }
